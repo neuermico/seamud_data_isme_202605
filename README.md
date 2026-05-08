@@ -15,6 +15,12 @@ Environmental samples were collected in **April (Spring)**, **August (Summer)**,
 - **rep_seqs.fna.gz**  
   Gzipped FASTA file containing **representative sequences** (DNA; `.fna` format).
 
+
+## Detailed analysis files
+Link: https://pan.baidu.com/s/1UpDt91TR-Yu88QIYogrSTQ?pwd=1rps 
+Access code (Extraction code): 1rps 
+
+
 ## Notes
 - Contents and column definitions for `table_filtered_w_tax.xls` should be confirmed by the file’s worksheet headers.
 - `rep_seqs.fna.gz` should be decompressed prior to downstream sequence analysis.
